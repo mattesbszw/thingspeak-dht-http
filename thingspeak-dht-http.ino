@@ -18,7 +18,7 @@ const char* password = "A1234567890";
 
 WiFiClient client;
 
-// auf den jew. ThingSpeak-Kanal anpassen, hier MAT
+// auf den jew. ThingSpeak-Kanal anpassen
 unsigned long tsChannelNumber = 0;
 const char* tsWriteAPIKey = "YOURKEYHERE";
 

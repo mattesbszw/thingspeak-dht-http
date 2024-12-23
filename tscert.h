@@ -25,5 +25,4 @@ const char * PROGMEM thingspeak_ca_cert = \
 "MrY=\n" \
 "-----END CERTIFICATE-----\n";
 
-
 #endif
